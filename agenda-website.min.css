@@ -457,6 +457,13 @@ pricing-table-drawer-title.mobile{
   padding-right:66px;
   border-radius: 9px;  
 }
+.button.is-icon-arrow {
+	background-position: right 32px top 50%;
+}
+
+.button.is-icon-arrow:hover {
+	background-position: right 28px top 50%;
+}
 .button.is-icon-arrow.is-hover-white:hover{background-image:url(https://assets-global.website-files.com/61717799a852418a278cfa9b/640beec82e2b163db2124bbc_arrow-right-icon-24-black.svg)}.button.is-icon-arrow.is-medium{padding-right:60px}.button.is-link-small{color:#000;background-color:transparent;background-image:url(https://assets-global.website-files.com/61717799a852418a278cfa9b/62fe58127fb8826bbdd589e6_chevron-right-icon-28-black.svg);background-position:0%;background-repeat:no-repeat;background-size:20px 20px;border-style:none;margin-bottom:24px;padding:0 38px 0 0;font-size:17px;font-weight:400;line-height:130%;text-decoration:none}.button.is-link-small:hover{opacity:.6;background-position:0%}.button.is-link-small.is-alternate{color:#fff;background-color:transparent;background-image:url(https://assets-global.website-files.com/61717799a852418a278cfa9b/619e00780889795bef440c8a_chevron-right%204.svg)}.button.is-link-small.is-alternate:hover{color:rgba(255,255,255,.6)}.button.is-link-small.text-weight-bold{font-weight:700}.button.is-outline{border:1px solid var(--white);background-color:transparent}.button.is-outline:hover{background-color:var(--white);color:var(--blue)}.button.is-outline.is-small{padding-left:16px;padding-right:16px;font-size:13px}
 .button.is-google{
   border:3px solid var(--white);
