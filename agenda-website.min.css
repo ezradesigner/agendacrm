@@ -212,7 +212,7 @@ main{position:relative;overflow:hidden}
 .text-color-black-60{color:rgba(0,0,0,.6)}
 .text-color-white-40{color:rgba(255,255,255,.4)}
 .text-color-white-60{color:rgba(255,255,255,.6)}
-.text-size-xtiny{color: rgb(7 167 143);font-size:14px;line-height:120%}
+.text-size-off{color: rgb(7 167 143);font-size:17px;line-height:120%}
 .text-size-tiny{margin-bottom:0;font-size:15px;line-height:140%}
 .text-size-small{font-size:17px;line-height:140%;text-align: justify;}
 .text-size-regular{font-size:19px;text-align: justify;}
@@ -292,7 +292,7 @@ main{position:relative;overflow:hidden}
 .button.is-icon-phone {background-position: right 32px top 50%}
 .button.is-icon-phone:hover {background-position: right 28px top 50%}
 .plans-wrapper{color:var(--black);width:70%;max-width:900px;margin: 40px auto 40px auto;padding:0;display:block}
-.switch{font-family: Arial, sans-serif; ;letter-spacing:2px;justify-content:center;align-items:center;font-size:17px;font-weight:500;margin-left:20px;display:flex;position:absolute}
+.switch{font-family: Arial, sans-serif;letter-spacing:2px;justify-content:center;align-items:center;font-size:17px;font-weight:500;margin-left:20px;display:flex;position:absolute}
 .toggle-text{opacity:.6;color:#fff;letter-spacing:0;line-height:100%}
 .toggle-text.annual-toggle{opacity:1}
 .toggle-text.month-toggle{opacity:.6;color:#fff;letter-spacing:0;width:134px;line-height:100%;transition:opacity .3s}
